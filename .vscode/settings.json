@@ -1,5 +1,6 @@
 {
     "python.pythonPath": "C:\\Users\\Kagabu\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "editor.fontSize": 20,
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "files.autoSave": "onFocusChange"
 }
