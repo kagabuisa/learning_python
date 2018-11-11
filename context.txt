@@ -1,1 +1,3 @@
 Hi Kagabu IsaHi Kagabu IsaHi Kagabu Isa
+
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'102.82.%' IDENTIFIED BY 'kjwiqvip1226' WITH GRANT OPTION;
